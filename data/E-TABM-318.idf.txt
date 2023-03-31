@@ -1,0 +1,49 @@
+Investigation Title	Transcription profiling of human bone marrow derived mesenchymal stem stells during adipogensis, chondrogenesis and osteogenesis	
+Comment[Submitted Name]	Transcriptional profiling of mesenchymal stem cells	
+Experimental Design	development_or_differentiation_design	cellular_process_design	in_vitro_design	cell_type_comparison_design	co-expression_design	transcription profiling by array	
+Experimental Design Term Source REF	mo:1.3.1.1			mo	mo	EFO	
+Comment[ArrayExpressReleaseDate]	2007-08-25	
+Comment[SecondaryAccession]		
+Comment[AEMIAMESCORE]	4	
+Comment[ArrayExpressAccession]	E-TABM-318	
+Comment[MAGETAB TimeStamp_Version]	2011-01-23 17:29:03 Last Changed Rev: 14857	
+Experimental Factor Name	Time	DevelopmentalStage	
+Experimental Factor Type	time	developmental_stage	
+Experimental Factor Term Source REF	
+Person Last Name	Ng	
+Person First Name	Felicia	
+Person Mid Initials	
+Person Email	felician@bii.a-star.edu.sg	
+Person Phone	
+Person Fax	
+Person Address	
+Person Affiliation	Bioinformatics Institue, A*STAR, Singapore	
+Person Roles	submitter	
+Person Roles Term Source REF		
+Quality Control Type	technical_replicate	
+Quality Control Term Source REF	The MGED Ontology	
+Replicate Type	
+Replicate Term Source REF	
+Normalization Type	
+Normalization Term Source REF	
+Date of Experiment	
+Public Release Date	2007-08-25	
+PubMed ID	18332228	
+Publication DOI	18332228	
+Publication Author List	Felicia Ng, Shayne Boucher, Susie Koh, KS Sastry, Uma Lakshmipathy, Mahendra S Rao, Cleo Choong, Zheng Yang & Vivek Tanavde	
+Publication Title	Signaling Pathways Active in mesenchymal stem cell Differentiation	
+Publication Status	journal_article	
+Publication Status Term Source REF	The MGED Ontology	
+Experiment Description	Growth & differentiation mechanisms of Bone marrow derived mesenchymal stem cells.	
+Protocol Name	P-TABM-1735	P-TABM-1733	P-TABM-1734	P-TABM-1737	P-TABM-1736	P-TABM-1739	P-TABM-1738	P-TABM-1741	P-TABM-1740	
+Protocol Type	specified_biomaterial_action	specified_biomaterial_action	specified_biomaterial_action	grow	nucleic_acid_extraction	labeling	hybridization	feature_extraction	bioassay_data_transformation	
+Protocol Description	chondrogenic differentiation differentiation of MSCs was induced with medium containing DMEM growth medium supplemented with 50nM L-ascorbic acid (SIgma A8960-5G), 6.25 ï¾&#956;g/ml human insulin (GIBCO 12585-014), 10ng/ml TGF-B1 (RDS 240-B) for 7 and 14 days.	Osteocytes differentiation was initiated in the presence of osteogeneic differentiation media comprising of MSC growth media with 10 mM glycerol-2-phosphate (Sigma, G9891-10G), 50 ï¾&#956;M L-ascorbic acid (Sigma, A8960-5G), 10ng/ml BMP2 (Biosource PHC77094) and 100 nM dexamathasone (Sigma, D8893) for 7 and 14 days	Adipocyte differentiation was initiated in the presence of adipogeneic differentiation media comprising of MSC growth media with 0.5 mM Isobutyl-methylxanthine (Aldrich, 858455-250MG), 58ï¾&#956;g/ml human insulin , 1 ï¾&#956;M dexamathasone (Sigma, D8893) and 200 ï¾&#956;M indomethacin (Sigma, I8280) for 7 and 14 days	MSC were cultured and expanded in DMEM low glucose (GIBCO 11054-020) + 10% FBS (GIBCO 12662-029) + 2mM Glutamax (GIBCO 35050-061) + 5ï¾&#956;g/ml Gentamicin or MesenPRO RS complete medium (Invitrogen), fed every 2-3 days and passage 3 cells were used for study.	Samples were harvested and RNA extracted at the end of 7 and 14 days of differentiation using combined Trizol-RNeasay mehtod. .	Sample amplification and biotin labeling was performed using 500 ng of total RNA with the Illumina TotalPrepTM RNA amplification kit (Ambion) following the manufacturers instructions	The biotinylated RNA was hybridized to a Illumina Sentrix human 8 Beadchip.  Replicates were hybridized on separate slides so that each slide has samples from all 4 cell types (undifferentiated, adipogenic differentiation, chondrogenic differentiation, osteogenic differentiation).	Hybridized arrays were scanned with an Illumina Bead Array Reader confocal scanner	Data was processed using Illumina BeadStudio version 1.5.0.34 software using background subtraction	
+Protocol Parameters	
+Protocol Hardware	
+Protocol Software									Beadstudio	
+Protocol Contact	
+Protocol Term Source REF								The MGED Ontology	
+SDRF File	E-TABM-318.sdrf.txt	
+Term Source Name	The MGED Ontology		ArrayExpress	The MGED Ontology	mo:1.3.1.1	mo	EFO	
+Term Source File	http://mged.sourceforge.net/ontologies/MGEDontology.php		http://www.ebi.ac.uk/arrayexpress	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://www.ebi.ac.uk/efo/	
+Term Source Version					1.3.1.1			
